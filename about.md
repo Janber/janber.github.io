@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Good developers who are familiar with the entire stack know how to make life easier for those around them. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I think if smart people use their heads and their hearts, a better product gets built in less time.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kurekenpa@gmail.com](mailto:kurekenpa@gmail.com)
